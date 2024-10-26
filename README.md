@@ -11,14 +11,18 @@
   - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+
  
 <h2>📖 Certifications:</h2>
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
+- <b>Microsoft Azure Administrator Associate (AZ-104)</b>
+  - [https://learn.microsoft.com/api/credentials/share/en-us/OghenetegaBalogun-7945/A929F4C212B52624?sharingId=7C463E0AAF97BAA8]
+- <b>Microsoft Azure Security Engineer Associate (AZ-500)</b>
+  - [https://learn.microsoft.com/api/credentials/share/en-us/OghenetegaBalogun-7945/9CA0F54D8602E10B?sharingId=7C463E0AAF97BAA8]
+- <b>CompTIA Security+ (SY0-701)</b>
+  - [https://www.credly.com/badges/92dcea1a-b9a4-42ae-9229-0e4fe80bd807/public_url]
+- <b>Microsoft SC-900: Security, Compliance, and Identity Fundamentals</b>
+  - [https://learn.microsoft.com/api/credentials/share/en-us/OghenetegaBalogun-7945/A6E0E5825554F002?sharingId=7C463E0AAF97BAA8]
 
 <h2>📺 Pratical Videos</h2>
 
