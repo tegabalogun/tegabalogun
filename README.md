@@ -5,7 +5,7 @@
 - <b>Phishing Campaign Simulation</b>
   - [Detailed Project Documentation](https://github.com/tegabalogun/-Phishing-Campaign-Simulation/blob/main/README.md)
 - <b>Securing Azure SQL Database</b>
-  - [Detailed Project Documentation](https://https://github.com/tegabalogun/Securing-Azure-SQL-Database)
+  - [Detailed Project Documentation](https://github.com/tegabalogun/Securing-Azure-SQL-Database)
 
  
 <h2>📖 Certifications:</h2>
