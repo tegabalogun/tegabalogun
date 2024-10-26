@@ -5,7 +5,7 @@
 - <b>Phishing Campaign Simulation</b>
   - [Detailed Project Documentation](https://github.com/tegabalogun/-Phishing-Campaign-Simulation/blob/main/README.md)
 - <b>Securing Azure SQL Database</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  - [Detailed Project Documentation](https://github.com/tegabalogun/-Phishing-Campaign-Simulation/blob/main/README.md)
 
  
 <h2>📖 Certifications:</h2>
