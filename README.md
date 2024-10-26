@@ -26,8 +26,8 @@
 
 <h2>📺 Pratical Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [Phishing Campaign Simulation](https://www.linkedin.com/posts/bright-balogun_phishing-passwordlesssecurity-cloudsecurity-activity-7247304808481665025-9kno?utm_source=share&utm_medium=member_desktop)
+- [Securing Azure SQL Database](https://www.linkedin.com/posts/bright-balogun_azure-cloudsecurity-databasesecurity-activity-7255613632250556416-EMgb?utm_source=share&utm_medium=member_desktop)
 
 
 <h2> 🤳 Connect with me:</h2>
