@@ -7,7 +7,7 @@
 - <b>Securing Azure SQL Database</b>
   - [Detailed Project Documentation](https://github.com/tegabalogun/Securing-Azure-SQL-Database)
  - <b>Windows Server Active Directory Management on Azure</b>
-    - [Detailed Project Documentation](https://github.com/tegabalogun/Securing-Azure-SQL-Database)
+    - [Detailed Project Documentation]()
 
  
 <h2>📖 Certifications:</h2>
