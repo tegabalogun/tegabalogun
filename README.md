@@ -9,7 +9,7 @@
  - <b>Windows Server Active Directory Management on Azure</b>
     - [Detailed Project Documentation](https://github.com/tegabalogun/Windows-Server-Active-Directory-Management-on-Azure/blob/main/README.md)
 - <b>Windows Server Active Directory Management on Azure</b>
-    - [Detailed Project Documentation](https://github.com/tegabalogun/Windows-Server-Active-Directory-Management-on-Azure/blob/main/README.md)
+    - [Detailed Project Documentation](https://github.com/tegabalogun/CCNA-Subnetting-and-Static-Routing-Lab)
 
  
 <h2>📖 Certifications:</h2>
