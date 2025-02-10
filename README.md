@@ -8,6 +8,8 @@
   - [Detailed Project Documentation](https://github.com/tegabalogun/Securing-Azure-SQL-Database)
  - <b>Windows Server Active Directory Management on Azure</b>
     - [Detailed Project Documentation](https://github.com/tegabalogun/Windows-Server-Active-Directory-Management-on-Azure/blob/main/README.md)
+- <b>Windows Server Active Directory Management on Azure</b>
+    - [Detailed Project Documentation](https://github.com/tegabalogun/Windows-Server-Active-Directory-Management-on-Azure/blob/main/README.md)
 
  
 <h2>📖 Certifications:</h2>
